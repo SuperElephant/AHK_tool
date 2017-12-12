@@ -149,6 +149,6 @@ distributeKey(){
 	return error
 }
 
-~#1 Up::Send #{Space}
+; ~#1 Up::Send #{Space}
 
-~^~ ::
+; ~^~ ::
