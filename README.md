@@ -4,5 +4,16 @@ And the reason for developing these scripts is mostly for daily use.
 Hope it can help you.
 
 ## Present Script
-- [easySwitch](https://github.com/SuperElephant/AHK_tool/blob/master/easySwitch.ahk)
+
+### [easySwitch](https://github.com/SuperElephant/AHK_tool/blob/master/easySwitch.ahk)
+
+It help you move window between screens. By pressing win+[number in 
+NumberPad], select departure screen and press win+[number in NumberPad] 
+to select destination screen.
+
+Notice the `Numpad5` is set as main screen, and other screen will be
+signed automatically according to the relative position.
+
+### [mulClipboard](https://github.com/SuperElephant/AHK_tool/blob/master/mulClipboard.ahk)
+
 

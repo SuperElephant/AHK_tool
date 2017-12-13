@@ -1,5 +1,14 @@
-
+;easySwitc
 ;------------------------------------------------------------
+;@author Chaos 
+;@date 2017/12
+;------------------------------------------------------------
+;It help you move window between screens
+;by pressing win+[number in NumberPad], select departure screen
+;and press win+[number in NumberPad] to select destination screen
+;Notice the Numpad5 is the main screen, and other screen will be
+;signed automatically according to the relative position.
+
 ;initialize the program
 selected := false
 startTime = 
